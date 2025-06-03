@@ -13,7 +13,7 @@ title: "3D Printer Guide"
 <p>Anycubic Video</p>
 <iframe width="1521" height="526" src="https://www.youtube.com/embed/2CurchA4HT8" title="AnyCubic Tries Multicolor: The AnyCubic Kobra 3 Combo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-<h2>Tips and Screenshots</h2>
+<h2>Tips for Preparing the Print File</h2>
 + Open the Orca Slicer application and import an STL file. 
 + After rotating it and snapping it to the build plate, it should look like what you see in this image.
 <figure>
@@ -21,9 +21,25 @@ title: "3D Printer Guide"
          alt="A screenshot of Orca Slicer with a model snapped to the build plate." class="img-left" width="700" height="400">
 </figure><br><br>
 
-Adjust the dimensions and any other print settings. Then click 'Sice plate' at the top of the screen.<br>
-Make sure that the file is saved in the file type '.gcode' and after the slicing completes it should look like this image.
++ Adjust the dimensions and any other print settings.
++ Then click 'Sice plate' at the top of the screen.<br>
++ Make sure that the file is saved in the file type '.gcode' and after the slicing completes it should look like this image.
 <figure>
     <img src="../assets/images/Orca-slicer2.png"
          alt="A screenshot of Orca Slicer with a model snapped to the build plate." width="700" height="400">
 </figure><br><br>
+
+<h2>Starting the Print</h2>
+
++ Save the .gcode file to a USB drive and then insert that drive into the port on the Anycubic Kobra 3 printer. 
++ Before printing, check:
+  1. That the nozzle is clear of any filament buildup
+  2. That the tubes do not contain any breaks in the filament
++ Use the touchpad to select your print file from the USB drive.
++ Watch the printing for at least the first two layers of the object.
++ Cancel the print if:
+  1. The filament fails to load
+  2. The filament begins to bubble over the nozzle
+  3. The filament fails to adhere to the build plate
++ After the first two layers have printed successfully, you can leave the printer and return when the print is completed.
++ Make a note to yourself, such as through setting a reminder on your phone, when to return to pick up the completed print and turn off the printer. 
