@@ -3,6 +3,8 @@ main:
     url: /tour/
   - title: "3D Printer Guide"
     url: /3d-printer-guide/
+  - title: "3D Scanner Guide"
+    url: /3d-scanner-guide/    
   - title: "Capitals 3D Use Case"
     url: /capitals/
   - title: "Course Projects Guide"
