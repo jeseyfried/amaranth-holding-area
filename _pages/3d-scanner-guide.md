@@ -14,7 +14,7 @@ For more information about the Revopoint POP3 scanner and software, visit their 
 <h2>Tips for 3D Scanning</h2>
 + Open the Revoscan application on the computer and connect the scanner through its USB cable. The setup should look like the picture below.
 <figure>
-    <img src="../assets/images/3Dphysicalsetup.png"
+    <img src="../assets/images/3Dphysicalsetup.jpg"
          alt="A screenshot of Orca Slicer with a model snapped to the build plate." width="700" height="400">
 </figure><br><br>
 
