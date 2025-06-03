@@ -16,13 +16,13 @@ title: "3D Printer Guide"
 <h2>Tips and Screenshots</h2>
 Open the Orca Slicer application and import an STL file. After rotating it and snapping it to the build plate, it should look like what you see in this image.
 <figure>
-    <img src="/assets/images/Orca-slicer1.png"
+    <img src="assets/images/Orca-slicer1.png"
          alt="A screenshot of Orca Slicer with a model snapped to the build plate." width="700" height="400">
 </figure><br><br>
 
 Adjust the dimensions and any other print settings. Then click 'Sice plate' at the top of the screen.<br>
 Make sure that the file is saved in the file type '.gcode' and after the slicing completes it should look like this image.
 <figure>
-    <img src="/assets/images/Orca-slicer2.png"
+    <img src="assets/images/Orca-slicer2.png"
          alt="A screenshot of Orca Slicer with a model snapped to the build plate." width="700" height="400">
 </figure><br><br>
