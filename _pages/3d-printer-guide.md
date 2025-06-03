@@ -16,6 +16,6 @@ title: "3D Printer Guide"
 <h2>Tips and Screenshots</h2>
 Open the Orca Slicer application and import an STL file. After rotating it and snapping it to the build plate, it should look like what you see in this image.
 <figure>
-    <img src="https://github.com/jeseyfried/amaranth-holding-area/assets/images/Orca-slicer1.png"
+    <img src="/assets/images/Orca-slicer1.png"
          alt="A screenshot of Orca Slicer with a model snapped to the build plate." width="800" height="400">
 </figure>
