@@ -1,9 +1,13 @@
 main:
-  - title: "Posts"
-    url: /posts/
-  - title: "Categories"
-    url: /categories/
-  - title: "Tags"
-    url: /tags/
-  - title: "About"
-    url: /about/
+  - title: "Amaranth Tour"
+    url: /tour/
+  - title: "3D Printer Guide"
+    url: /3d-printer-guide/
+  - title: "Capitals 3D Use Case"
+    url: /capitals/
+  - title: "Course Projects Guide"
+    url: /projects-guide/
+  - title: "Poster Use Cases"
+    url: /poster-use/
+  - title: "360 Camera Guide"
+    url: /360-camera/
