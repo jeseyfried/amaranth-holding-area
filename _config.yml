@@ -58,9 +58,9 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "Amaranth Holding Area"
+  name   : "Guides and Use Cases"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "Markdown that is hopefully ready to copy into Amaranth."
+  bio    : "Hopefully all this is ready to import into official Amaranth."
 
 
 footer:
