@@ -14,10 +14,11 @@ title: "3D Printer Guide"
 <iframe width="1521" height="526" src="https://www.youtube.com/embed/2CurchA4HT8" title="AnyCubic Tries Multicolor: The AnyCubic Kobra 3 Combo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <h2>Tips and Screenshots</h2>
-Open the Orca Slicer application and import an STL file. After rotating it and snapping it to the build plate, it should look like what you see in this image.
++ Open the Orca Slicer application and import an STL file. 
++ After rotating it and snapping it to the build plate, it should look like what you see in this image.
 <figure>
     <img src="../assets/images/Orca-slicer1.png"
-         alt="A screenshot of Orca Slicer with a model snapped to the build plate." width="700" height="400">
+         alt="A screenshot of Orca Slicer with a model snapped to the build plate." class="img-left" width="700" height="400">
 </figure><br><br>
 
 Adjust the dimensions and any other print settings. Then click 'Sice plate' at the top of the screen.<br>
