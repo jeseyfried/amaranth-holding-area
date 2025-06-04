@@ -3,4 +3,15 @@ permalink: /360-camera/
 title: "360 Camera Guide"
 ---
 
-Coming soon
+The History Department Tech Lab owns a 360 video camera which can also be used for 360 photos. The model is the ONE X2 by Insta360.
+
+For full instructions and documentation visit the <a href="https://onlinemanual.insta360.com/onex2/en-us/camera/basic">support page</a> for the Insta360 ONE X2 camera.
+
+<h2>Recording Video</h2>
++ Start recording a video by simply clicking the button on the camera.
++ After recording, connect the camera through a USB-C cable to one of the Mac workstations in the Lab.
+
+<h2>Editing a 360 Video</h2>
++ Open the application Insta360 Studio.
++ The video below provides you with an excellent tutorial for editing a 360 video.
+<iframe width="1521" height="526" src="https://youtube.com/embed/U24jDyYnU3A" title="Insta360 Studio Beginners Tutorial" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe><br>
