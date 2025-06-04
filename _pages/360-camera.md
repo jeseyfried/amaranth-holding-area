@@ -23,4 +23,4 @@ For full instructions and documentation visit the <a href="https://onlinemanual.
 + Use the app on your phone to take the photo as you stand out of view.
 + After connecting the camera to the Mac workstation, you can export the photo from Insta360 Studio.
 
-<h2/Adding Info Hotspots to a 360 Photo</h2>
+<h2>Adding Info Hotspots to a 360 Photo</h2>
