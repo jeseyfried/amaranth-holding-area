@@ -60,7 +60,7 @@ plugins:
 author:
   name   : "Guides and Use Cases"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "Hopefully all this is ready to import into official Amaranth."
+  bio    : "Getting things ready to deploy on official Amaranth."
 
 
 footer:
