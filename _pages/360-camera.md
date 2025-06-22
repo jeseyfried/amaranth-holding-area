@@ -1,6 +1,9 @@
 ---
-permalink: /360-camera/
-title: "360 Camera Guide"
+layout: base
+title: 360 Camera Guide
+subtitle: 
+author: Jonathan Seyfried
+date: 2025-06-22
 ---
 
 The History Department Tech Lab owns a 360 video camera which can also be used for 360 photos. The model is the ONE X2 by Insta360.
